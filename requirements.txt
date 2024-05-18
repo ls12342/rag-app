@@ -1,0 +1,6 @@
+ollama
+langchain
+beautifulsoup4
+chromadb
+gradio
+pypdf
